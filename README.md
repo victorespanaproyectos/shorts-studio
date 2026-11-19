@@ -10,15 +10,21 @@ Resultado: MP4 vertical 1080×1920, H.264 + AAC, con volumen normalizado a −14
 
 Todo es **gratis**: Python, FFmpeg, Gradio y Edge-TTS (voces neuronales de Microsoft, sin API key).
 
+![Shorts Studio](docs/portada.png)
+
 ## Capturas
 
-| Interfaz | Narración automática |
+| 1. Imagen | 2. Melodía |
 |---|---|
-| ![Interfaz](docs/screenshots/01-interfaz.png) | ![Narración](docs/screenshots/02-narracion.png) |
+| ![Imagen](docs/screenshots/01-imagen.png) | ![Melodía](docs/screenshots/02-melodia.png) |
 
-| Resultado en la app | Frame del Short generado (1080×1920) |
+| 3. Narración | 4. Imagen y animación |
 |---|---|
-| ![Resultado](docs/screenshots/03-resultado.png) | <img src="docs/screenshots/04-frame-short.png" width="260"> |
+| ![Narración](docs/screenshots/03-narracion.png) | ![Animación](docs/screenshots/04-animacion.png) |
+
+| 5. Duración y calidad |
+|---|
+| ![Duración](docs/screenshots/05-duracion.png) |
 
 Short de ejemplo generado con la propia app (imagen + voz automática + subtítulos animados): [docs/demo/ejemplo.mp4](docs/demo/ejemplo.mp4)
 
